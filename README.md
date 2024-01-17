@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurtodj23
-- 👀 I’m a Front-End Developer based in Cape Town
-- 🌱 I’m currently learning more on React
-- 💞️ I’m looking to collaborate on any Javascript projects
+- 👀 I’m a Full Stack Web Developer based in Cape Town
+- 🌱 I’m currently looking to land my first job
+- 💞️ I’m looking to collaborate on any Javascript based projects
 - 📫 You can reach out to me on WhatsApp @ 0827157053
 - Happy Coding...<></>
 
